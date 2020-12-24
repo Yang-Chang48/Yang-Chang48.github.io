@@ -1,0 +1,10 @@
+@font-face {
+   font-family: '汉仪粗简黑繁';
+   font-display: swap;
+   src: url('汉仪粗简黑繁/font.TTF');
+}
+@font-face {
+   font-family: '汉仪粗宋繁';
+   font-display: swap;
+   src: url('汉仪粗宋繁/font.TTF');
+}
